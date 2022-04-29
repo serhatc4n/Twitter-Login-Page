@@ -4,6 +4,7 @@
 
 body {
     background-color: rgb(219, 217, 217);
+    overflow-x: hidden;
 }
 
 .container {
